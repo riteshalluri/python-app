@@ -3,7 +3,7 @@ AWS_REGION="ap-southeast-2"
 AWS_ECRREPO="ECR_REPO_NAME"
 
 ## Deploy EKS cluster in AWS
-cd terraform-eks-cluster
+cd terraform-eks-clusters
 
 ## Initialise terraform module
 terraforn init
